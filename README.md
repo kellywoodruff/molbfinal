@@ -1,6 +1,6 @@
 ---
 title: Final Git Project
-author: Kelly Woodurff
+author: Kelly Woodruff
 date: December 10, 2019
 ---
 
